@@ -7,4 +7,4 @@ As an ESIIL Stars intern, I excited to learn how to use Python to process real w
 
 #### Contact Information
 
-ssheldo2@msudenver.edu
+[Email](ssheldo2@msudenver.edu)
